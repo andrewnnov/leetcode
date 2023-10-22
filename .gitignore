@@ -36,6 +36,8 @@ out
 driver
 allure-results
 
+gradle
+
 
 build
 .gradle
